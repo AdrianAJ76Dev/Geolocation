@@ -1,0 +1,632 @@
+[
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555951613450,
+            "changeTime": 1555951613450,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555951613450,
+            "changeTime": 1555951613450,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556165459424,
+            "changeTime": 1556165459424,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557190957901,
+            "changeTime": 1557190957901,
+            "contentHash": "34866d9c526460845c452ebdae1a0299f9739718",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556256820020,
+            "changeTime": 1556256820020,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1556256820019,
+            "changeTime": 1556256828239,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 583,
+            "modifiedTime": 1556256860020,
+            "changeTime": 1556256867280,
+            "contentHash": "44d071891870ff1aec019c00d22f991063541740",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1556256820004,
+            "changeTime": 1556256830093,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1556256820012,
+            "changeTime": 1556256832092,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1556256820020,
+            "changeTime": 1556256833054,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1556256820017,
+            "changeTime": 1556256829471,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1397,
+            "modifiedTime": 1556256909590,
+            "changeTime": 1556256916760,
+            "contentHash": "dfcfc9e349672e9d93db610da040f856db5bf1ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1556256820011,
+            "changeTime": 1556256828700,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1556256820015,
+            "changeTime": 1556256830372,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557190957923,
+            "changeTime": 1557190957923,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1557190957921,
+            "changeTime": 1557190971334,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1557191901619,
+            "changeTime": 1557191909736,
+            "contentHash": "af0eaa6e32015e94fc0d3eabbd6562db3cd9e9bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1557190957906,
+            "changeTime": 1557190966901,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1557190957915,
+            "changeTime": 1557190968916,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1557190957923,
+            "changeTime": 1557190970217,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1557190957919,
+            "changeTime": 1557190973769,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 865,
+            "modifiedTime": 1557192395205,
+            "changeTime": 1557192402785,
+            "contentHash": "6a4e7371aa2ed61f5390f040a20f8cd6db9b0ee8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1557190957913,
+            "changeTime": 1557190969396,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1557190957918,
+            "changeTime": 1557190968437,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556165739541,
+            "changeTime": 1556165739541,
+            "contentHash": "6227727dd56c9132b79b4e908af55410217dd161",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1556165739540,
+            "changeTime": 1556165752835,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 717,
+            "modifiedTime": 1556165790139,
+            "changeTime": 1556165797553,
+            "contentHash": "1a34258e1b4a969ddcb36bd18709bd26b7e40252",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1556165739528,
+            "changeTime": 1556165748616,
+            "contentHash": "e26e2fd23ab89fff52b5cf5beacdaf7ba916b560",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1556165739535,
+            "changeTime": 1556165751712,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1556165739541,
+            "changeTime": 1556165750658,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1556165739539,
+            "changeTime": 1556165748210,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 476,
+            "modifiedTime": 1556165840805,
+            "changeTime": 1556165848217,
+            "contentHash": "ef55b4f213a795c05e2e5c68e573434a10fcb2ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 575,
+            "modifiedTime": 1556165924319,
+            "changeTime": 1556165931750,
+            "contentHash": "b98370d856981bf5ebd68b5b41729b5aa46c5830",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1556165739537,
+            "changeTime": 1556165747972,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556256579480,
+            "changeTime": 1556256579480,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1556256692199,
+            "changeTime": 1556256699664,
+            "contentHash": "a8f843d3e3b5a1f4a0ad28e91a8cc081c56a9577",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1556256579480,
+            "changeTime": 1556256589492,
+            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556165459514,
+            "changeTime": 1556165459514,
+            "contentHash": "da96db5fc418edc242454d3c266786b628188ceb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 685,
+            "modifiedTime": 1556165517024,
+            "changeTime": 1556165524528,
+            "contentHash": "ca2a5a7f1d7a23bb78d288586fd8adc2e0a30422",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1556165459515,
+            "changeTime": 1556165469257,
+            "contentHash": "7a3e4b514776ce7cf897d7fa898d29e5e3fd537b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555951669702,
+            "changeTime": 1555951669702,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Adria\\Documents\\Dev Projects\\Study\\Salesforce\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555968317905,
+            "changeTime": 1555968317905,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
